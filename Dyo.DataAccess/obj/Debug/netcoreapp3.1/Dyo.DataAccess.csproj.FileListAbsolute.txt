@@ -1,0 +1,17 @@
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\obj\Debug\netcoreapp3.1\Dyo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\obj\Debug\netcoreapp3.1\Dyo.DataAccess.AssemblyInfo.cs
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\obj\Debug\netcoreapp3.1\Dyo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\bin\Debug\netcoreapp3.1\snappy32.dll
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\bin\Debug\netcoreapp3.1\snappy64.dll
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\bin\Debug\netcoreapp3.1\libzstd.dll
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\bin\Debug\netcoreapp3.1\Dyo.DataAccess.deps.json
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\bin\Debug\netcoreapp3.1\Dyo.DataAccess.dll
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\bin\Debug\netcoreapp3.1\Dyo.DataAccess.pdb
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\bin\Debug\netcoreapp3.1\Dyo.Core.dll
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\bin\Debug\netcoreapp3.1\Dyo.Entity.dll
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\bin\Debug\netcoreapp3.1\Dyo.Core.pdb
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\bin\Debug\netcoreapp3.1\Dyo.Entity.pdb
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\obj\Debug\netcoreapp3.1\Dyo.DataAccess.csprojAssemblyReference.cache
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\obj\Debug\netcoreapp3.1\Dyo.DataAccess.csproj.CopyComplete
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\obj\Debug\netcoreapp3.1\Dyo.DataAccess.dll
+C:\Users\cetin\source\repos\Dyo\Dyo.DataAccess\obj\Debug\netcoreapp3.1\Dyo.DataAccess.pdb
