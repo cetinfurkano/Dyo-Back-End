@@ -188,6 +188,7 @@ namespace Dyo.WebAPI.Controllers
 
         [HttpPut("{teacherId}/password")]
         [Validate(typeof(PasswordValidator))]
+
         public async Task<IActionResult> ChangePassword([FromRoute] string teacherId, [FromBody] ChangePasswordDto passwordDto)
         {
             var teacher = await _teacherService.GetByFilterAsync(t => t.Id == new ObjectId(teacherId));
