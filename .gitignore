@@ -1,4 +1,4 @@
 .vs/
 
 bin 
-Dyo.Business/obj
+Dyo.Business/obj/*
