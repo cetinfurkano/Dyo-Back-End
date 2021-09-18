@@ -1,0 +1,7 @@
+.vs/
+
+Dyo.Business/obj/*
+Dyo.Core/obj/*
+Dyo.DataACcess/obj/*
+Dyo.Entity/obj/*
+Dyo.WebAPI/obj/*
